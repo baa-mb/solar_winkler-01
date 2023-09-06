@@ -1,5 +1,5 @@
 {
-    "name": "solar_winkler_01",
+    "name": "solar_winkler_01_ohne_ton",
     "description": "",
     "dependencies": {
         "core": "*",
